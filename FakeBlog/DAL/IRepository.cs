@@ -21,7 +21,7 @@ namespace FakeBlog.DAL
 
         bool IsDraft(int postId);
 
-        bool PostDraft(int postId);
+        //bool PostDraft(int postId);
 
         //Delete
         bool RomovePublishedPost(int postId);
